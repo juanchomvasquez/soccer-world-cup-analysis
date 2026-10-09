@@ -53,7 +53,7 @@ The notebook includes Python code, calculations, visualizations, analytical inte
 
 The findings describe observed statistical patterns rather than proving their underlying causes. Additional research into national team strength, tournament formats, and individual match results would help evaluate the relationship between expansion and competitiveness.
 
-The dataset is currently loaded from an externally maintained CSV, so future updates may affect reproducibility until the source version is fixed.
+To ensure reproducibility, this analysis uses a fixed GitHub commit of the International Football Results dataset (October 7, 2026). This allows future users to rerun the notebook against the same source version used for the original analysis.
 
 ## Author
 
